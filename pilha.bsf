@@ -65,6 +65,13 @@ applicable agreement for further details.
 		(text "DATA_OUT[7..0]" (rect 144 27 219 39)(font "Arial" ))
 		(line (pt 240 32)(pt 224 32)(line_width 3))
 	)
+	(port
+		(pt 240 48)
+		(output)
+		(text "LED[7..0]" (rect 0 0 40 12)(font "Arial" ))
+		(text "LED[7..0]" (rect 179 43 219 55)(font "Arial" ))
+		(line (pt 240 48)(pt 224 48)(line_width 3))
+	)
 	(drawing
 		(rectangle (rect 16 16 224 128)(line_width 1))
 	)
